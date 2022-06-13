@@ -1,7 +1,7 @@
 # FOODBOX
 ## Description
 
-Create a dynamic and responsive online food delivery web application for ordering food items of different cuisines from a restaurant.
+FoodBox is an online food delivery web application for ordering food items of different cuisines from a restaurant. FoodBox is a restaurant chain that delivers food items of different cuisines at affordable prices.
 
 ## Modules in the Project:
 * Registration Page. 
